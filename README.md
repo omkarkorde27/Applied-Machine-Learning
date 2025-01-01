@@ -1,6 +1,6 @@
 # Applied-Machine-Learning
 
-The goal of this problem is for to explore how to properly analyze, visualize, split, clean and format data and perform linear regression, polynomial regression and regularization. I will use the happiness data (e.g. happiness data.csv) located here Download here. The data consists of the following attributes:
+The goal of this problem is for to explore how to properly analyze, visualize, split, clean and format data and perform linear regression, polynomial regression and regularization. I will use the happiness data (e.g. happiness data.csv) located here Download here(https://iu.instructure.com/courses/2249409/assignments/16595500). The data consists of the following attributes:
 
 Country name: name of the country
 Year: year data was collected
